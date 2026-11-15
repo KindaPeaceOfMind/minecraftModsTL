@@ -2,13 +2,13 @@
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 
-rem SCRIPT_DIR - папка, где лежит этот скрипт (корень)
+rem SCRIPT_DIR - folder where this script is located (root)
 set "SCRIPT_DIR=%~dp0"
 
-rem Папка с модами (находится рядом со скриптом)
+rem Mods folder (located next to this script)
 set "MODS_DIR=%SCRIPT_DIR%mods"
 
-rem Файл для сохранения списка (в корне)
+rem Output file for the keep list (in the root folder)
 set "KEEP_LIST=%SCRIPT_DIR%mods_keep.txt"
 
 if not exist "%MODS_DIR%" (
@@ -20,10 +20,10 @@ if not exist "%MODS_DIR%" (
 echo Scanning mods folder: %MODS_DIR%
 echo.
 
-rem Очищаем старый файл списка
+rem Remove the old keep list file
 if exist "%KEEP_LIST%" del "%KEEP_LIST%"
 
-rem Собираем все файлы из папки mods
+rem Collect all files from the mods folder
 set "COUNT=0"
 for %%F in ("%MODS_DIR%\*") do (
     echo %%~nxF>>"%KEEP_LIST%"

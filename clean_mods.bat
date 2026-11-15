@@ -2,13 +2,13 @@
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 
-rem SCRIPT_DIR - папка, где лежит этот скрипт (корень)
+rem SCRIPT_DIR - folder where this script is located (root)
 set "SCRIPT_DIR=%~dp0"
 
-rem Папка с модами (находится рядом со скриптом)
+rem Mods folder (located next to this script)
 set "MODS_DIR=%SCRIPT_DIR%mods"
 
-rem Файл со списком модов, которые нужно оставить (в корне)
+rem Keep list file (in the root folder)
 set "KEEP_LIST=%SCRIPT_DIR%mods_keep.txt"
 
 if not exist "%MODS_DIR%" (
