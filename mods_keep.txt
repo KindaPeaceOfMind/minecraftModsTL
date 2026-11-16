@@ -35,12 +35,12 @@ architectury-13.0.11-neoforge.jar
 armorstandarms-neoforge-1.21-1.0.1.jar
 artifacts-neoforge-13.2.5.jar
 artifactsdelight-1.0.1.1-1.21.x.jar
-asteorbar-neoforge-1.21.1-1.5.3.jar
 athena-neoforge-1.21.1-4.0.6.jar
 atlas_api-1.21.1-1.2.0.jar
 attributefix-neoforge-1.21.1-21.1.3.jar
 attributefixsync-0.0.2.jar
 AureljPaintings-1.0.5-1.21.x-neoforge.jar
+AutoTranslation-1.3.0%2Bmc1.21.1-neoforge.jar.deactivation
 azimuth-1.4.10.jar
 BadOptimizations-2.4.1-1.21.1.jar
 balm-neoforge-1.21.1-21.0.66.jar
@@ -100,7 +100,7 @@ connectivity-1.21.1-7.7.jar
 Controlling-neoforge-1.21.1-19.0.5.jar
 cookingforblockheads-neoforge-1.21.1-21.1.24.jar
 copycats-3.0.9%2Bmc.1.21.1-neoforge.jar
-cosmetica-neoforge-2.0.1-1.21.1.jar
+cosmetica-neoforge-2.0.1-1.21.1.jar.deactivation
 crashexploitfixer-neoforge-2.0.0%2B1.21.4.jar
 CraterLib-Neoforge-1.21-3.1.3.jar
 Create%20Aeronautics%20Gyroscope%20Stabilizers.jar
@@ -146,7 +146,7 @@ cupboard-1.21.1-4.2.jar
 curios-neoforge-9.0.15+1.21.1.jar
 curios-neoforge-9.5.1+1.21.1.jar
 curios-performance-fix-1.0.4-neoforge-1.21.1.jar
-darkbindings-neoforge-1.21-1.5.4.jar
+darkbindings-neoforge-1.21-1.5.4.jar.deactivation
 darkbindings_recipe_disabler_1.21.x.zip.deactivation
 darkblades-1.2.6-neoforge-1.21.1.jar
 darkcap-neoforge-1.21-1.1.9.jar
@@ -163,7 +163,6 @@ darkmagnet-neoforge-1.21.1-1.0.0.jar
 darkmenu-neoforge-1.21-1.2.4.jar
 darkmining-neoforge-1.21-1.2.5hf2.jar
 darkmining_datapack_1.21.x.zip
-darkmobs_easy_mode_datapack_1.21.x.zip
 darkquesting-neoforge-1.21-1.2.9b.jar
 darkquesting_casino_loot_datapack_1.21.x.zip
 darkrewards-neoforge-1.21-1.2.0.jar
@@ -189,6 +188,7 @@ deeperdarkerdelight-1.1.3.1-1.21.x.jar
 deep_aether-1.21.1-1.1.5.1.jar
 Design-n-Decor-1.21.1-2.2b.jar
 despawntweaks-neoforge-1.0.0-1.21.1.jar
+disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar
 divinerpg-1.10.10.jar
 divinerpg_supplementaries_compat-1.0.0.jar
 divine_encounters-neoforge-1.2.2%2B1.21.1.jar
@@ -202,7 +202,7 @@ DungeonCrawl-NeoForge-1.21-2.3.17.jar
 dungeons-and-taverns-v4.4.4 [NeoForge].jar
 DungeonsArise-1.21.1-2.1.68-release.jar
 DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar
-dynamicwaters-12.0.0.jar
+dynamicwaters-13.1.1-neoforge-1.21.1.jar
 dynview-1.21-4.0.jar
 easy-villagers-neoforge-1.21.1-1.1.47.jar
 EasyAnvils-v21.1.0-1.21.1-NeoForge.jar
@@ -248,7 +248,7 @@ ftb-library-neoforge-2101.1.37.jar
 ftb-quests-neoforge-2101.1.36.jar
 ftb-teams-neoforge-2101.1.11.jar
 ftb-ultimine-neoforge-2101.1.15.jar
-ftb-xmod-compat-neoforge-21.1.13.jar
+ftb-xmod-compat-neoforge-21.1.13.jar.deactivation
 ftbquesttransl-1.21.1-neoforge-1.5.0.jar
 fwa%2B1.21.1-neoforge-1.2.31.jar
 fzzy_config-0.7.7%2B1.21%2Bneoforge.jar
@@ -303,7 +303,6 @@ jeict-1.0.0.jar
 jeioptimizer-1.21.1-1.2.1-19.64.jar
 jeirecipepins-1.21.1-1.4.0.jar
 jei_plus_plus-1.0.9a-1.21.1.jar
-jei_trade-1.0.2-1.21.1.jar
 jei_trim_hider-1.0.2-NeoForge-1.21.1.jar
 jmi-neoforge-1.21.1-1.9.1.jar
 jmsharedmaps-1.7.1-1.21.1-neoforge.jar
@@ -350,11 +349,13 @@ mca-neoforge-7.7.36-beta.3%2B1.21.1.jar
 mca-vamp-compat-1.21.1-2.3.0.jar
 mcaconversations-neoforge-1.8.1%2B1.21.1.jar
 mcafamilylife-0.1.1.jar
+mcaminecolonies-1.0.2.jar
 mcamobcompat-neoforge-0.2.1%2B1.21.1.jar
 mcaquests-1.7.1.jar
 mca_hat_layer_fix-1.0.0.jar
 mca_polygamy-1.0.4.jar
 mcfd-compat-0.1.6-alpha.jar
+mcvanillatweaks-1.21.1-1.5.11.jar
 medieval_buildings-1.21.1-1.1.1-neoforge.jar
 medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar
 memorysettings-1.21-6.0.jar
@@ -391,6 +392,7 @@ MysticalCustomization-1.21.1-6.0.2.jar
 NaNny-1.21.1-1.0.1.jar
 NaturesCompass-1.21.1-3.4.0-neoforge.jar
 neruina-3.3.3%2B1.21.1-neoforge.jar
+nocolonieslongcommute-neoforge-1.21-1.1.0.jar
 noglobalsounds-neoforge-1.21.1-1.0.0.jar
 notenoughanimations-neoforge-1.12.6-mc1.21.1.jar
 ntgl-1.21.1-3.2.0.jar
